@@ -1,0 +1,63 @@
+{
+    "basic_info": {
+      "name": "Jesús Salatiel",
+      "titles": [ "QA Engineer", "SDET", "QA Automation"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/jesussalatiel",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/jesussalatiel2/",
+          "class": "fab fa-facebook"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/Jesus_Salatiel_",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/jes%C3%BAs-salatiel/",
+          "class": "fab fa-linkedin"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "95"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "95"
+        },
+        {
+          "name": "Jenkins",
+          "class": "devicon-jenkins-plain",
+          "level": "95"
+        },
+        {
+          "name": "Microsoft SQL",
+          "class": "devicon-microsoftsqlserver-plain",
+          "level": "95"
+        }
+      ]
+    }
+  }

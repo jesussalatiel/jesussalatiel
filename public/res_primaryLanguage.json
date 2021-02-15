@@ -1,0 +1,136 @@
+{
+    "basic_info": {
+      "description_header": "¡Qué Onda!",
+      "description": "Mi nombre es Jesus Salatiel, soy Ingeniero en Sistemas Computacionales, actualmente tengo la posición de QA Automation Engineer, he trabajado para diversas industrias, tales como: Retail y logística, las cuales me han brindado la oportunidad de expandir mi conocimiento día a día, permitiéndome desenvolver con múltiples equipos en busca de mejores maneras de resolver nuestras tareas diarias. En mis tiempos libres me gusta salir con mis amigos, aprender nuevas cosas fuera del tema de tecnología y practicar algún deporte.",
+      "section_name": {
+        "about": "Hablemos",
+        "projects": "Proyectos",
+        "skills": "Habilidades",
+        "experience": "Experiencia"
+      }
+    },
+    "projects": [
+      {
+        "title": "QA Engineer",
+        "startDate": "2020",
+        "description": "QA es el acrónimo de Quality Assurance, garantía de calidad. Es una cultura como DevOps, es decir, todo lo que sea necesario para cumplir con la garantía y calidad que debe tener el producto.  QA proporciona una serie de metodologías, herramientas, y mecanismos que nos ayudarán a no caer en esta trampa o en la de “no hay tiempo para calidad”.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://github.com/jesussalatiel/Selenium_Java_POM",
+        "technologies": [
+          {
+            "class": "devicon-java-plain colored",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-jenkins-line",
+            "name": "Jenkins"
+          },
+          {
+            "class": "devicon-microsoftsqlserver-plain-wordmark",
+            "name": "Microsoft SQL Server"
+          },
+          {
+            "class": "devicon-javascript-plain colored",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Reconocimiento Facial",
+        "startDate": "2018",
+        "description": "El reconocimiento facial es una forma de autenticación biométrica que utiliza medidas corporales para verificar tu identidad. El reconocimiento facial es un subconjunto de datos biométricos que identifica a las personas mediante la medición de la forma y estructura únicas de sus rostros. En este proyecto fueron utilizadas redes neuronales convolucionales que son un tipo de algoritmo computacional que ayuda a obtener mapas de características las cuales sirven como base para un punto de comparación para una base de identificación facial el cual es comunicado por diversas herramientas como API y mostrado al usuario con una interfaz gráfica hecha en Django.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/jesussalatiel/VisionComputer",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C/C++"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Cerebro-Computadora",
+        "startDate": "2019",
+        "description": "La interfaz cerebro-computadora, constituyen una tecnología que se basa en la adquisición de ondas cerebrales para luego ser procesadas e interpretadas por una máquina u ordenador. Establecen un nuevo camino para interactuar con tecnología mediante nuestro pensamiento, ya que estas interfaces permiten transformarlo en acciones reales en nuestro entorno. Esta tiene 3 principios las cuales son: Adquisición de señal, Procesado de la señal y Aplicación. Hay diversas aplicaciones en el ámbito medico como es controlar el movimiento en una silla de ruedas o un robot inalámbrico en este proyecto fueron utilizadas para el control de un ortesis de miembros superiores. ",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C/C++"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": ""
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Softtek - IT Services and Business Process Solutions",
+        "title": "QA Automation Engineer",
+        "years": "09-2019 - Present",
+        "mainTech": [
+          "Java 8",
+          "Selenium",
+          "ISTQB"
+        ],
+        "technologies": [
+          "Python",
+          "JavaScript",
+          "Jenkins"
+        ]
+      },
+      {
+        "company": "Tecnológico de Monterrey",
+        "title": "Becario Inteligencia Artificial",
+        "years": "08-2018 - 01-2019",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "TensorFlow",
+          "MYSQL",
+          "C/C++",
+          "Interfaz Cerebro-Computadora"
+        ]
+      }
+    ]
+  }
