@@ -1,0 +1,136 @@
+{
+  "basic_info": {
+    "description_header": "What's up",
+    "description": "My name is Jesús Salatiel, I am a Computer Systems Engineer, I currently have the position of QA Automation Engineer, I have worked for various industries, such as: Retail and Logistics, which have given me the opportunity to expand my knowledge day by day, allowing me to develop with multiple teams in search of better ways to solve our daily tasks. In my free time I like to go out with my friends, learn new things outside of technology and play sports.",
+    "section_name": {
+      "about": "Let's Talk",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "QA Engineer",
+      "startDate": "2020",
+      "description": "QA is the acronym for Quality Assurance, quality assurance. It is a culture like DevOps, that is, everything that is necessary to comply with the guarantee and quality that the product must have. QA provides a series of methodologies, tools, and mechanisms that will help us avoid falling into this trap or the no time for quality.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://github.com/jesussalatiel/Selenium_Java_POM",
+      "technologies": [
+        {
+          "class": "devicon-java-plain colored",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-jenkins-line",
+          "name": "Jenkins"
+        },
+        {
+          "class": "devicon-microsoftsqlserver-plain-wordmark",
+          "name": "Microsoft SQL Server"
+        },
+        {
+          "class": "devicon-javascript-plain colored",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        }
+      ]
+    },
+    {
+      "title": "Facial Recognition",
+      "startDate": "2018",
+      "description": "Facial recognition is a form of biometric authentication that uses body measurements to verify your identity. Facial recognition is a subset of biometric data that identifies people by measuring the unique shape and structure of their faces. In this project, convolutional neural networks were used, which are a type of computational algorithm that helps to obtain feature maps which serve as the basis for a point of comparison for a facial identification base which is communicated by various tools such as API and displayed to the user with a graphical interface made in Django.",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com/jesussalatiel/VisionComputer",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-django-plain",
+          "name": "Django"
+        },
+        {
+          "class": "devicon-cplusplus-plain",
+          "name": "C/C++"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Computer Interface",
+      "startDate": "2019",
+      "description": "The brain-computer interface is a technology that is based on the acquisition of brain waves to later be processed and interpreted by a machine or computer. They establish a new way to interact with technology through our thinking, since these interfaces allow us to transform it into real actions in our environment. It has 3 principles which are: Signal Acquisition, Signal Processing and Application. There are various applications in the medical field such as controlling movement in a wheelchair or a wireless robot in this project were used to control an upper limb orthosis.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-cplusplus-plain",
+          "name": "C/C++"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": ""
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Softtek - IT Services and Business Process Solutions",
+      "title": "QA Automation Engineer",
+      "years": "09-2019 - Present",
+      "mainTech": [
+        "Java 8",
+        "Selenium",
+        "ISTQB"
+      ],
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "Jenkins"
+      ]
+    },
+    {
+      "company": "Monterrey Institute of Technology",
+      "title": "Artificial Intelligence - Internships",
+      "years": "08-2018 - 01-2019",
+      "mainTech": [
+        "Python"
+      ],
+      "technologies": [
+        "REST API",
+        "JavaScript",
+        "Bootstrap",
+        "TensorFlow",
+        "MYSQL",
+        "C/C++",
+        "Brain Computer Interface"
+      ]
+    }
+  ]
+}

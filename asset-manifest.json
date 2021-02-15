@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jesussalatiel/static/css/main.17710be9.chunk.css",
+    "main.js": "/jesussalatiel/static/js/main.7e7cd8c8.chunk.js",
+    "main.js.map": "/jesussalatiel/static/js/main.7e7cd8c8.chunk.js.map",
+    "runtime-main.js": "/jesussalatiel/static/js/runtime-main.4e0e59ff.js",
+    "runtime-main.js.map": "/jesussalatiel/static/js/runtime-main.4e0e59ff.js.map",
+    "static/css/2.d64471e2.chunk.css": "/jesussalatiel/static/css/2.d64471e2.chunk.css",
+    "static/js/2.6a7a1aa9.chunk.js": "/jesussalatiel/static/js/2.6a7a1aa9.chunk.js",
+    "static/js/2.6a7a1aa9.chunk.js.map": "/jesussalatiel/static/js/2.6a7a1aa9.chunk.js.map",
+    "index.html": "/jesussalatiel/index.html",
+    "precache-manifest.d06dce1120d113429db39ed7b1fa6e5d.js": "/jesussalatiel/precache-manifest.d06dce1120d113429db39ed7b1fa6e5d.js",
+    "service-worker.js": "/jesussalatiel/service-worker.js",
+    "static/css/2.d64471e2.chunk.css.map": "/jesussalatiel/static/css/2.d64471e2.chunk.css.map",
+    "static/css/main.17710be9.chunk.css.map": "/jesussalatiel/static/css/main.17710be9.chunk.css.map",
+    "static/js/2.6a7a1aa9.chunk.js.LICENSE.txt": "/jesussalatiel/static/js/2.6a7a1aa9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e0e59ff.js",
+    "static/css/2.d64471e2.chunk.css",
+    "static/js/2.6a7a1aa9.chunk.js",
+    "static/css/main.17710be9.chunk.css",
+    "static/js/main.7e7cd8c8.chunk.js"
+  ]
+}
